@@ -11,6 +11,7 @@ File Transfer App is a simple web application built with Golang that allows user
 - **Modular Structure**: The code is organized into different packages for easy management.
 
 ## Project Structure
+```
 file-transfer-app/
 │
 ├── main.go
@@ -26,4 +27,4 @@ file-transfer-app/
 │
 └── uploads/
     └── (uploaded files go here)
-
+```
